@@ -49,9 +49,6 @@ A `RandomForestClassifier` model is trained on synthetic application usage data:
 | `usage.py`             | Generates usage report + trains ML model + sends email |
 | `Requirements.txt`     | Required Python packages |
 | `tempCodeRunnerFile.py`| Temp file used during testing |
-| `Project_documentation.pdf` | Full documentation of the system with use cases, diagrams, tech stack |
-| `BatchA 12.pptx`       | PowerPoint presentation of the project |
-
 ---
 
 ## 🛠️ Installation
@@ -157,6 +154,7 @@ Puttur, Chittoor District, Andhra Pradesh
 For detailed module explanations, UML diagrams, feature list, datasets, and literature survey, refer:
 - 📄 `Project_documentation.pdf`
 - 📊 `BatchA 12.pptx`
+- For above files contact me via gmail. 
 
 ---
 
