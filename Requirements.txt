@@ -1,0 +1,14 @@
+pynput
+psutil
+matplotlib
+numpy
+scikit-learn
+smtplib  # Note: built-in with Python, no need to install
+email    # Also part of Python standard library
+tk       # Usually included with Python installation
+getpass  
+ctypes   
+subprocess  
+socket   
+
+# author: Rudrasena Reddy
