@@ -162,4 +162,4 @@ For detailed module explanations, UML diagrams, feature list, datasets, and lite
 
 This project is for academic use only. For commercial or deployment-related queries, please contact the authors.
 
-My Gmail ID : b.rudrasenareedy@gmail.com
+My Gmail ID : b.rudrasenareddy@gmail.com
